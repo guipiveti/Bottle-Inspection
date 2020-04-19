@@ -4,6 +4,7 @@
 This project was developed during the 4th semester of graduation in Mechatronic Engineering. Its purpose was to get started with the use of Visual Studio to create a program with a friendly user interface. The context of the project is to simulate the inspection of shampoo bottles on a conveyor belt to verify if the bottle cap has been placed properly.
 
 [![Demonstration video](Demonstration%20Video/Print.jpg)](Demonstration%20Video/20171201_105418.mp4)
+Click the image to watch the demonstration video.
 
 ## :gear: How does it work?
 
